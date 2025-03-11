@@ -1,7 +1,5 @@
-# 2024_uni
-Year 1, 2024 university project code
-
 ## Hierarchical TSV Reporting Program
+Year 1, 2024 university project code
 
 This C program reads **TSV (Tab-Separated Values)** data from standard input and generates hierarchical reports according to the user’s selection of sort columns. It was originally distributed as a skeleton by the University of Melbourne (see header comments) but has been extended with additional functionality for sorting and reporting.
 
